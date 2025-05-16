@@ -7,7 +7,7 @@ Below is the guide on how to run the demo using System Console.
 1. Run System Console
 2. Execute "source Max10_RSU_v2.tcl"
 
-![alt text](https://github.com/intel-fpga-ceg/Max10-RemoteUpdate/blob/main/image/console.jpg)
+![alt text](https://github.com/altera-wiki/Max10-Wiki/Max10-RemoteUpdate/blob/main/image/console.jpg)
 
 | Button                  | Description                                                                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
